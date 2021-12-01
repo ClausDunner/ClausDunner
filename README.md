@@ -3,7 +3,7 @@
 > Hello there, i do { **HTML/JS** }. :computer:
 > 
 > 
-> Contact me **.Rewindlxss#0001 on discord.**
+> Contact me **.Surrogate#0001 on discord.**
 >
 > [![Status](https://github-readme-stats.vercel.app/api?username=ClausDunner&show_icons=true&hide_border=true&theme=gruvbox&count_private=true)](https://github.com/ClausDunner) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClausDunner&theme=gruvbox&langs_count=10&layout=compact)
 >
